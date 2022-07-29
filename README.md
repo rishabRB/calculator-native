@@ -1,1 +1,1 @@
-# calculator-native![simulator_screenshot_315CEB95-E0D4-4303-AAA6-462FF96800E3](https://user-images.githubusercontent.com/58904133/181810782-f3d65e73-ba5a-4efa-9c15-84b47bb87cdb.png)
+<img width="306" alt="Screenshot 2022-07-29 at 22 46 25" src="https://user-images.githubusercontent.com/58904133/181810891-e07b6ddd-1bd1-4b74-beea-a059a47bcaa5.png">
